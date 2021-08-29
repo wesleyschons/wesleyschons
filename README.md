@@ -1,6 +1,6 @@
 👋 Hello world, I’m @wesleyschons
 
-I’m interested in learning new technologies and improving my dev techniques.
+I’m interested in learning new technologies and improving my dev skills.
 
 Currently learning Vue.js and Javascript in general.
 
