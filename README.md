@@ -9,7 +9,7 @@ Currently learning Vue.js and Javascript in general.
 <a href="https://www.linkedin.com/in/wesley-schons-dos-santos" target="_blank" rel="nofollow">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://api.whatsapp.com/send?phone=5549991337707" target="_blank" rel="nofollow">
+<a href="https://api.whatsapp.com/send?phone=5549999467643" target="_blank" rel="nofollow">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <br/><br/>
